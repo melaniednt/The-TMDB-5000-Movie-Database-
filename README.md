@@ -3,3 +3,4 @@ Welcome to my new GitHub repository dedicated to the Kaggle TMDB Movie Metadata 
 
 
 Binder link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melaniednt/The-TMDB-5000-Movie-Database-/HEAD)
