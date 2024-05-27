@@ -1,2 +1,5 @@
 # The-TMDB-5000-Movie-Database-
- Welcome to this GitHub project based on the TMDB Movie Metadata dataset. The goal is to introduce you to the world of databases by visualizing an existing database and extracting records through SQL queries. Explore movies and enhance your SQL skills with this rich and diverse dataset.
+Welcome to my new GitHub repository dedicated to the Kaggle TMDB Movie Metadata database. This project aims to provide me with training in the field of databases, learning to visualize and extract data using SQL queries. Join me in exploring the fascinating world of films through data!
+
+
+Binder link:
